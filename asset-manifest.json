@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dailycard/static/css/main.a701efc5.css",
+    "main.js": "/dailycard/static/js/main.d47da5c9.js",
+    "static/js/453.246f0aed.chunk.js": "/dailycard/static/js/453.246f0aed.chunk.js",
+    "index.html": "/dailycard/index.html",
+    "main.a701efc5.css.map": "/dailycard/static/css/main.a701efc5.css.map",
+    "main.d47da5c9.js.map": "/dailycard/static/js/main.d47da5c9.js.map",
+    "453.246f0aed.chunk.js.map": "/dailycard/static/js/453.246f0aed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a701efc5.css",
+    "static/js/main.d47da5c9.js"
+  ]
+}
